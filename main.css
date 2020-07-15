@@ -58,3 +58,16 @@ ul a:hover {
     width: 300px;
     margin: 20px;
 }
+
+/* CATS */
+
+.cats {
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: center; 
+}
+
+.cats img {
+    height: 500px;
+    margin: 30px;
+}
